@@ -16,6 +16,7 @@
   ###### Gênio Indomável
   ###### Náufrago
   ###### Green Book - O Guia
+  ###### Eu Sou A Lenda (Will Smith)
 
 ### Comédia
 
@@ -26,3 +27,16 @@
   ###### Perfume de mulher
 
 ### Ação
+
+### Ficção Cientifica 
+
+  ###### Vingadores 
+  ###### O Exterminador do Futuro
+  ###### Guardiões da Galáxia
+  ###### De Volta Para o Futuro
+  ###### Homem de Ferro
+  ###### Perdido em Marte
+  ###### O Doador de Memórias
+  ###### Elysium
+  
+  
