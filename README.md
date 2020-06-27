@@ -6,14 +6,23 @@
   ###### Lion uma jornada pra casa
   ###### A Teoria de Tudo (Stephen Hawking)
   ###### O Jogo da Imitação (Alan Turing)
+  ###### A Vida é Bela
+  ###### Ben-Hur
+  ###### O Pianista
+  ###### Extraordinário
+  ###### Uma Mente Brilhante
+  ###### Whiplash - Em Busca da Perfeição (Baterista)
+  ###### Sete Vidas - (Will Smith)
+  ###### Gênio Indomável
+  ###### Náufrago
+  ###### Green Book - O Guia
 
-Comédia
+### Comédia
 
 
 
-Romance
+### Romance
   
   ###### Perfume de mulher
 
-
-Ação
+### Ação
